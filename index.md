@@ -2,23 +2,28 @@
 layout: default
 title: Home
 nav_order: 1
-description: "OpenKM系統之設置、維運"
+description: Devotions
 permalink: /
-last_modified_date: 2022-12-27 10:18:49
----
+last_modified_date: 2022-12-29 21:31:33
 
-# About OpenKM System
+# Devotions
 {: .fs-9 }
 
-[OpenKM](https://www.openkm.com/)是一個開放的知識管理系統，此處分享有關系統安裝、設定及維運的細節
+Links of Notes
+
 {: .fs-6 .fw-300 }
 
-[News at 2022-06-22](https://sinotec2.github.io/Focus-on-Air-Quality/GridModels/POST/5IncProc/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [sinotec2.github.io](https://sinotec2.github.io/){: .btn .fs-5 .mb-4 .mb-md-0 } [Blog](https://sinotec2.github.io/FAQ/){: .btn .fs-5 .mb-4 .mb-md-0 } [FAQ Home](https://sinotec2.github.io/Focus-on-Air-Quality/){: .btn .fs-5 .mb-4 .mb-md-0 }
+[News at 2022-06-22](https://sinotec2.github.io/Focus-on-Air-Quality/GridModels/POST/5IncProc/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
 
 ---
 
-## What's New
-- 2022-12-27 開始這系列文章的編寫。
+## List
+
+Key|name|First line of Lyric
+:-:|-|-
+C|[献上自己为祭](http://www.sooopu.com/html/193/193215.html)|獻上自己為祭，完全降服於你， 靈火熊熊來焚燒，恩膏厚厚濕衣襟。
+G|[只要有你在我左右](http://sooopu.com/html/279/279619.html)|開我的眼睛，讓我看到天使天軍，
+G|[能不能](http://www.sooopu.com/html/279/279605.html)|我屬於你，你是我永遠的福分，
 
 {: .no_toc }
 
@@ -31,9 +36,6 @@ last_modified_date: 2022-12-27 10:18:49
 {:toc}
 </details>
 ---
-
-## 2022
-### 2022-12 
 
 ## About the project
 

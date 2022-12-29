@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: About OpenKM System
-description: OpenKM documents
-baseurl: "/OpenKM" # the subpath of your site, e.g. /blog
+title: Links of Notes
+description: Links of Notes
+baseurl: "/linksofnotes" # the subpath of your site, e.g. /blog
 url: "https://sinotec2.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
@@ -64,7 +64,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "About OpenKM at GitHub":
+  "LinksOfNotes at GitHub":
     - "//github.com/sinotec2"
 
 # Makes Aux links open in a new tab. Default is false
@@ -92,13 +92,13 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page at GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page at GitHub"
-gh_edit_repository: "https://github.com/sinotec2/OpenKM" # the github URL for your repo
+gh_edit_repository: "https://github.com/sinotec2/linksofnotes" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 # Color scheme currently only supports "dark", "light"/nil (default), light_blue or a custom scheme that you define
-color_scheme: light
+color_scheme: light_blue
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
