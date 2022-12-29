@@ -1,0 +1,16 @@
+d=~/Documents/jtd
+line=$(grep News $d/index.md)
+oldDate=$(echo $line|cut -d' ' -f3|cut -c1-10)
+newDate=$(date "+%Y-%m-%d")
+lastMD=$(echo $line|cut -d'(' -f2|cut -d')' -f1)
+newsMD=https://sinotec2.github.io/Focus-on-Air-Quality$(ls -rt $(findc "*.md")|grep -v index|tail -n1|cut -c 2-)
+newsMD=${newsMD/.md//}
+if [ $lastMD != $newsMD ]; then
+  sed -ie 's#'${lastMD}'#'${newsMD}'#' $d/index.md
+  sed -ie '/News/s#'${oldDate}'#'${newDate}'#' $d/index.md
+  TOKEN=$(cat ~/bin/git.token)
+  git add index.md
+  git commit -m "revised index.md"
+  git push https://sinotec2:$TOKEN@github.com/sinotec2/Focus-on-Air-Quality.git
+fi
+if [ -e $d/index.mde ];then rm -f $d/index.mde;fi
