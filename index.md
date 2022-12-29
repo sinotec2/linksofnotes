@@ -25,6 +25,10 @@ C|[献上自己为祭](http://www.sooopu.com/html/193/193215.html)|獻上自己�
 G|[只要有你在我左右](http://sooopu.com/html/279/279619.html)|開我的眼睛，讓我看到天使天軍，
 G|[能不能](http://www.sooopu.com/html/279/279605.html)|我屬於你，你是我永遠的福分，
 A|[医治我](http://www.sooopu.com/html/279/279616.html)|压伤的芦苇祂不折断,将残的蜡烛祂不吹熄
+C|[我要看見](https://file.zanmeishige.com/store/2021/09/03/61315b87ddb93a68da388229.png)|求你降下同在，在你子民的敬拜中，
+C|[每一天我需要你](https://www.zanmeishige.com/tab/41123.html?songbook=1&index=363)|親愛的天父我何等地需要你，需要更多你的同在
+B<sup>b</sup>|[让我得见你的荣面](http://sooopu.com/html/501/501551.html)|我的靈安靜在你面前，深知道你就在這裡
+F|[丰盛的应许](http://www.sooopu.com/html/181/181871.html)|祢仰臉保守祢所愛的祢護庇永遠不離不棄
 
 {: .no_toc }
 
