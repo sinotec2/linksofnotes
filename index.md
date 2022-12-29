@@ -24,6 +24,7 @@ Key|name|First line of Lyric
 C|[献上自己为祭](http://www.sooopu.com/html/193/193215.html)|獻上自己為祭，完全降服於你， 靈火熊熊來焚燒，恩膏厚厚濕衣襟。
 G|[只要有你在我左右](http://sooopu.com/html/279/279619.html)|開我的眼睛，讓我看到天使天軍，
 G|[能不能](http://www.sooopu.com/html/279/279605.html)|我屬於你，你是我永遠的福分，
+A|[医治我](http://www.sooopu.com/html/279/279616.html)|压伤的芦苇祂不折断,将残的蜡烛祂不吹熄
 
 {: .no_toc }
 
