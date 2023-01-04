@@ -29,6 +29,7 @@ C|[我要看見](https://file.zanmeishige.com/store/2021/09/03/61315b87ddb93a68d
 C|[每一天我需要你](https://www.zanmeishige.com/tab/41123.html?songbook=1&index=363)|親愛的天父我何等地需要你，需要更多你的同在
 B<sup>b</sup>|[让我得见你的荣面](http://sooopu.com/html/501/501551.html)|我的靈安靜在你面前，深知道你就在這裡
 F|[丰盛的应许](http://www.sooopu.com/html/181/181871.html)|祢仰臉保守祢所愛的祢護庇永遠不離不棄
+A|[我們呼求你](http://www.sooopu.com/html/181/181787.html)|主我們同心在祢面前，以禱告尋求祢面
 
 {: .no_toc }
 
