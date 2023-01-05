@@ -22,6 +22,9 @@ Links of Notes
 Key|name|First line of Lyric
 :-:|-|-
 C|[献上自己为祭](http://www.sooopu.com/html/193/193215.html)|獻上自己為祭，完全降服於你， 靈火熊熊來焚燒，恩膏厚厚濕衣襟。
+C|[我要看見](https://www.zanmeishige.com/tab/41122.html?songbook=1&index=362)|求你降下同在，在你子民的敬拜中
+C|[每一天我需要你](https://www.zanmeis.com/gepu/6561.htm)|讓我坦然無懼來到施恩座前，用心靈誠實尋求你，
+C|[你必成就美好事](https://www.zanmeishige.com/tab/41135.html?songbook=1&index=375)|耶和華有恩惠不輕易發怒，滿有憐憫慈愛到萬代
 G|[只要有你在我左右](http://sooopu.com/html/279/279619.html)|開我的眼睛，讓我看到天使天軍，
 G|[能不能](http://www.sooopu.com/html/279/279605.html)|我屬於你，你是我永遠的福分，
 A|[医治我](http://www.sooopu.com/html/279/279616.html)|压伤的芦苇祂不折断,将残的蜡烛祂不吹熄
@@ -29,6 +32,8 @@ C|[我要看見](https://file.zanmeishige.com/store/2021/09/03/61315b87ddb93a68d
 C|[每一天我需要你](https://www.zanmeishige.com/tab/41123.html?songbook=1&index=363)|親愛的天父我何等地需要你，需要更多你的同在
 B<sup>b</sup>|[让我得见你的荣面](http://sooopu.com/html/501/501551.html)|我的靈安靜在你面前，深知道你就在這裡
 F|[丰盛的应许](http://www.sooopu.com/html/181/181871.html)|祢仰臉保守祢所愛的祢護庇永遠不離不棄
+F|[獻上尊榮](https://www.iwtfly.com/di-365-shou-xian-shang-zun-rong-he-xian-jian-pu.html)|耶穌基督，榮耀父神彰顯，救贖真光，萬國的盼望
+F|[在至高之處](http://www.sooopu.com/html/501/501525.html)|在至高之處，我獻上感恩
 A|[我們呼求你](http://www.sooopu.com/html/181/181787.html)|主我們同心在祢面前，以禱告尋求祢面
 
 {: .no_toc }
